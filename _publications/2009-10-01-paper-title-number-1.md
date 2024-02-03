@@ -12,13 +12,4 @@ Proposed A Compact Snapshot Spectral Imaging System: Aperture Diffraction Imagin
 
 [Download paper here](https://openaccess.thecvf.com/content/ICCV2023/papers/Lv_Aperture_Diffraction_for_Compact_Snapshot_Spectral_Imaging_ICCV_2023_paper.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
-'''
-@inproceedings{lv2023aperture,
-  title={Aperture Diffraction for Compact Snapshot Spectral Imaging},
-  author={Lv, Tao and Ye, Hao and Yuan, Quan and Shi, Zhan and Wang, Yibo and Wang, Shuming and Cao, Xun},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-  pages={10574--10584},
-  year={2023}
-}
-'''
+Recommended citation: Lv T, Ye H, Yuan Q, et al. Aperture Diffraction for Compact Snapshot Spectral Imaging[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023: 10574-10584.
