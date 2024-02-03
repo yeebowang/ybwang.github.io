@@ -40,6 +40,10 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+
+
+
   
 <!--  
 Talks
@@ -55,6 +59,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 -->  
+
+
+
+
 Service and leadership
 ======
 Reviewer:
