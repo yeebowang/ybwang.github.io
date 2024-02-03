@@ -16,4 +16,4 @@ In high-dimensional signal acquisition, I introduced a novel snapshot imaging sp
 
 In the field of  high-dimensional vision, I created a dataset and benchmark for detecting gas targets in the mid-wave and long-wave infrared band, showcased at CVPR 2022. I played a key role in developing a spectral video gas monitoring and early warning system, leading to top honors in three national competitions, where I served as the project lead for two. Furthermore, my research extends to applying artificial intelligence for improved chemical industry safety, earning me the Best Demo Award at the CAAI International Conference on AI.
 
-You can find my CV here: [Tao Lv's Curriculum Vitae](../assets/Tao_Lv_cv.pdf)
+You can find my CV here: [Tao Lv's Curriculum Vitae](https://krito-ex.github.io/lvtao.github.io/assets/Tao_Lv_cv.pdf)
