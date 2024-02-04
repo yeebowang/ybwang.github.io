@@ -10,6 +10,6 @@ citation: 'Shi Z, Ye H, Lv T, et al. Compact Self-adaptive Coding for Spectral C
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://krito-ex.github.io/lvtao.github.io/files/paper2.pdf)
 
 Recommended citation: Shi Z, Ye H, Lv T, et al. Compact Self-adaptive Coding for Spectral Compressive Sensing[C]//2023 IEEE International Conference on Computational Photography (ICCP). IEEE, 2023: 1-12.
