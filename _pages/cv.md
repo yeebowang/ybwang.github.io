@@ -14,7 +14,7 @@ Education
 * B.S. in Electrical Engineering and Automation, Northeastern University, Shengyang, China, 2021
 * Ph.D in Information and Communication Engineering, Nanjing University, Jiangsu, China, 2026 (expected)
 
-Honors \& Awards
+Honors & Awards
 ======
 * National Scholarships, Dec '19
 * National First Prize of China Graduate Electronic Design Contest, Aug '21
