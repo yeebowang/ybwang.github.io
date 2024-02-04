@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Compact Self-adaptive Coding for Spectral Compressive Sensing"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+excerpt: 'Optmized snapshot spectral imaging based on temporal infomation and self-adaptive dynamic mask.'
+date: 2023
+venue: 'ICCP'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Shi Z, Ye H, Lv T, et al. Compact Self-adaptive Coding for Spectral Compressive Sensing[C]//2023 IEEE International Conference on Computational Photography (ICCP). IEEE, 2023: 1-12.'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10233711)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Shi Z, Ye H, Lv T, et al. Compact Self-adaptive Coding for Spectral Compressive Sensing[C]//2023 IEEE International Conference on Computational Photography (ICCP). IEEE, 2023: 1-12.
