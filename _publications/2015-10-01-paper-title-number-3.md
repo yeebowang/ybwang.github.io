@@ -10,6 +10,6 @@ citation: 'Lv T, Ye H, Yuan Q, et al. Aperture Diffraction for Compact Snapshot 
 ---
 Aperture Diffraction for Compact Snapshot Spectral Imaging
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://krito-ex.github.io/lvtao.github.io/files/paper3.pdf)
 
 Recommended citation: Lv T, Ye H, Yuan Q, et al. Aperture Diffraction for Compact Snapshot Spectral Imaging[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023: 10574-10584.
