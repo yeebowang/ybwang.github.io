@@ -56,6 +56,8 @@ Service and leadership
 ======
 Reviewer:
 
--- IEEE Conference on Computer Vision and Pattern Recongnition, 2023-Now
+-- IEEE Transactions on Pattern Analysis and Machine Intelligence(TPAMI), 2024-Now
+
+-- IEEE Conference on Computer Vision and Pattern Recongnition(CVPR), 2023-Now
 
 -- International Journal of Computer Vision (IJCV), 2023-Now
